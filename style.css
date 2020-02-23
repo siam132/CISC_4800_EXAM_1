@@ -2,6 +2,14 @@ table{
     border-style: solid;
 }
 
+tr{
+    padding-right: 2em;
+}
+td{
+    border-style: solid;
+    padding-right: 2em;
+}
+
 .footer-text{
     padding: 5em;
 }
@@ -13,7 +21,7 @@ h2{
 }
 
 .icon{
-   max-width: 15em;
-   max-height: 15em;
-   float: center;
+   max-width: 16em;
+   max-height: 16em;
 }
+
