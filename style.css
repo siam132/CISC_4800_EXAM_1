@@ -1,0 +1,19 @@
+table{
+    border-style: solid;
+}
+
+.footer-text{
+    padding: 5em;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2em;
+}
+
+.icon{
+   max-width: 15em;
+   max-height: 15em;
+   float: center;
+}
